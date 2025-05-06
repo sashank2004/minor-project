@@ -969,11 +969,3 @@ To resolve this error, doublecheck that you have updated the `CONTRACT_ADDRESS` 
 
 This dApp has very limited functionality. We can improve it by adding functions to delete messages, block users, or create groups of friends.  
 We could also optimize the dApp interaction cost with functions to limit the maximum number of messages, or possibly using event log for short messages.
-
-## About the Author(s)
-
-The tutorial was created by [Nimish Agrawal](https://github.com/realnimish) & [Sayan Kar](https://github.com/SayanKar). You can reach out to them on [Figment Forum](https://community.figment.io/u/nimishagrawal100.in/) or on LinkedIn [@Nimish Agrawal](https://www.linkedin.com/in/realnimish) and [@Sayan Kar](https://www.linkedin.com/in/sayan-kar-).
-
-## References
-
-* Smart contract deployment process - [Deploy a Smart Contract on Avalanche using Remix and MetaMask](https://docs.avax.network/build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask)
