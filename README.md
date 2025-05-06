@@ -64,15 +64,16 @@ Log in to MetaMask -&gt; Click the Network drop-down -&gt; Select Custom RPC
 
 ![Metamask](images/metamask.png)
 
-**FUJI Testnet Settings:**
+** Testnet Settings:**
 
-* **Network Name**: Avalanche FUJI C-Chain
-* **New RPC URL**: [https://api.avax-test.network/ext/bc/C/rpc](https://api.avax-test.network/ext/bc/C/rpc)
-* **ChainID**: `43114`
-* **Symbol**: `C-AVAX`
-* **Explorer**: [https://cchain.explorer.avax-test.network](https://cchain.explorer.avax-test.network/)
+* **Network Name**: Sepolia
+* **New RPC URL**
+* **ChainID**: 
+* **Symbol**: 
+* **Explorer**: 
+Search all this on Google for latest
 
-Fund your address from the given [faucet](https://faucet.avax-test.network/).
+Fund your address from the online free faucet for sepolia.
 
 ### Deploy using Remix
 
